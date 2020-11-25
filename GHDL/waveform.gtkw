@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Wed Oct 14 19:52:57 2020
+[*]
+[dumpfile] "/home/serg/ws/eda/pbleddim/GHDL/sim/pbleddim_tb.vcd"
+[dumpfile_mtime] "Wed Oct 14 19:45:03 2020"
+[dumpfile_size] 97922444
+[savefile] "/home/serg/ws/eda/pbleddim/GHDL/waveform.gtkw"
+[timestart] 25290000000000
+[size] 1669 706
+[pos] -1 -1
+*-43.000000 56730000000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] pbleddim_tb.
+[sst_width] 233
+[signals_width] 323
+[sst_expanded] 1
+[sst_vpaned_height] 181
+@28
+pbleddim_tb.duv.iclk
+@23
+pbleddim_tb.duv.deb_cnt[10:0]
+@28
+pbleddim_tb.duv.pb_pressed
+pbleddim_tb.duv.tick_10us
+@24
+pbleddim_tb.duv.pwm_active[6:0]
+pbleddim_tb.duv.pwm_cnt[6:0]
+@28
+pbleddim_tb.duv.pwm_out
+[pattern_trace] 1
+[pattern_trace] 0
